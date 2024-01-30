@@ -1,0 +1,29 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family:'Open Sans', sans-serif;
+}
+
+.bg-bgrosa{
+    background-color: #e83e8c;
+}
+
+.bg-footerone-propio{
+    background-color: #17a2b8;
+}
+
+.logo-footer{
+    width: 3%;
+}
+
+@media screen and (max-width: 576px) {
+    .imagen-footer {
+        width: 10%;
+    }
+}
+
+@media screen and (min-width: 577px) and (max-width: 992px) {
+    .imagen-footer {
+        width: 15%;
+    }
+}
